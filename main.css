@@ -1,0 +1,10 @@
+.sectionOne, .sectionTwo, .Footer {
+  display: flex;
+  flex-flow: row wrap;
+} 
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
